@@ -1,0 +1,24 @@
+{
+  "name": "nginx-load-balancer",
+  "version": "1.0.0",
+  "description": "Create an nginx load balancer for dockerized node.js application",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepesh316/nginx-load-balancer.git"
+  },
+  "keywords": [],
+  "author": "Deepesh Kumar R <deepeshkumar6080@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deepesh316/nginx-load-balancer/issues"
+  },
+  "homepage": "https://github.com/Deepesh316/nginx-load-balancer#readme"
+}
